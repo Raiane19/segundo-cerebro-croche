@@ -76,7 +76,7 @@ Os links acima devem apontar para arquivos que realmente existam no repositório
 As capturas de tela documentam a utilização do notebook, as fontes importadas, as respostas citadas e os materiais de estudo.
 
 - [Fontes importadas](Evidencias/fontes.png)
-- [Resposta com citações](Evidencias/resposta-citada.png)
+- [Resposta com citações](Evidencias/resposta-com-fonte.png)
 - [Verificação da fonte](Evidencias/verificação-fonte.png)
 - [Materiais gerados](Evidencias/materiais-gerados.png)
 

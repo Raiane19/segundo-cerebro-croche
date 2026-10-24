@@ -56,50 +56,6 @@ Suas principais regras são:
 
 A diretriz completa está disponível em [`planejamento/diretriz.md`](planejamento/diretriz.md).
 
-## 💬 Testes realizados
-
-Os testes foram elaborados para verificar a qualidade das respostas, o uso das fontes e a capacidade de reconhecer limitações.
-
-### Teste 01 — Materiais para iniciantes
-
-**Pergunta:** O que uma pessoa precisa para começar a fazer crochê?
-
-**Resultado obtido:** [Registrar um resumo da resposta real.]
-
-**Fontes citadas:** [Informar as fontes apresentadas pelo notebook.]
-
-**Verificação:** [Explicar se as citações sustentam a resposta.]
-
-### Teste 02 — Pontos fundamentais
-
-**Pergunta:** Como fazer uma correntinha e um ponto baixo?
-
-**Resultado obtido:** [Registrar um resumo da resposta real.]
-
-**Fontes citadas:** [Informar as fontes apresentadas pelo notebook.]
-
-**Verificação:** [Explicar se as instruções estão corretas e bem organizadas.]
-
-### Teste 03 — Leitura de receitas
-
-**Pergunta:** Como interpretar abreviações de crochê?
-
-**Resultado obtido:** [Registrar um resumo da resposta real.]
-
-**Fontes citadas:** [Informar as fontes apresentadas pelo notebook.]
-
-**Verificação:** [Registrar se o notebook diferenciou as convenções ou reconheceu limitações.]
-
-### Teste 04 — Limitações das fontes
-
-**Pergunta:** As fontes explicam como corrigir uma peça que ficou torta?
-
-**Resultado obtido:** [Registrar a resposta real, inclusive se não houve informação suficiente.]
-
-**Fontes citadas:** [Informar as fontes apresentadas pelo notebook.]
-
-**Verificação:** [Avaliar se o notebook evitou inventar informações.]
-
 ## 📚 Materiais de estudo gerados
 
 Os materiais abaixo foram produzidos durante o desenvolvimento do projeto.
@@ -121,7 +77,7 @@ As capturas de tela documentam a utilização do notebook, as fontes importadas,
 
 ## 🔗 Acesso ao notebook
 
-**Notebook compartilhado:** [Inserir aqui o link real do notebook]
+**Notebook compartilhado:** https://notebook.google.com/notebook/28658d5c-c344-4f74-905c-d86be466021e
 
 ## 🛠️ Ferramentas utilizadas
 
@@ -132,7 +88,15 @@ As capturas de tela documentam a utilização do notebook, as fontes importadas,
 
 ## 📈 Aprendizados
 
-[Descrever o que foi aprendido sobre seleção de fontes, elaboração de perguntas, verificação de citações e uso da IA como ferramenta de estudo.]
+## Aprendizado obtido
+
+Com a realização do projeto Segundo Cérebro sobre Crochê, aprendi como utilizar uma ferramenta de inteligência artificial para organizar conhecimentos, estudar um assunto e encontrar respostas baseadas em fontes selecionadas. Percebi a importância de escolher materiais confiáveis, como vídeos, artigos e PDFs, para que as respostas sejam mais úteis e estejam relacionadas ao conteúdo estudado.
+
+Durante os testes, aprendi sobre os materiais básicos necessários para começar a fazer crochê, como agulha e fio, além de conhecer os passos iniciais para fazer correntinhas e pontos baixos. Também compreendi a importância de contar os pontos, manter a tensão do fio e prestar atenção às instruções para evitar erros. Outro aprendizado foi reconhecer as abreviações utilizadas nas receitas de crochê e perceber que elas podem variar conforme a convenção adotada.
+
+Além disso, entendi que a inteligência artificial pode ajudar a resumir informações, explicar técnicas e organizar conteúdos para facilitar o aprendizado. Entretanto, suas respostas precisam ser verificadas, pois as fontes podem apresentar diferenças ou não conter informações suficientes para responder a determinadas perguntas. Um exemplo foi a dificuldade de encontrar orientações específicas para corrigir uma peça plana que ficou torta depois de várias carreiras.
+
+Por fim, aprendi que criar um segundo cérebro com IA não significa apenas reunir informações, mas também selecionar fontes, formular perguntas, conferir as citações, identificar limitações e organizar o conhecimento. O projeto mostrou que a inteligência artificial pode funcionar como uma ferramenta de apoio aos estudos, desde que seja utilizada de forma crítica e responsável, sem substituir a análise e a verificação das informações.
 
 ## 👩‍💻 Autoria
 

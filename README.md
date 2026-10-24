@@ -54,7 +54,7 @@ Suas principais regras são:
 - Reconhecer quando as fontes não permitem confirmar uma informação.
 - Criar exercícios e materiais de revisão baseados no conteúdo disponível.
 
-A diretriz completa está disponível em [`planejamento/diretriz.md`](planejamento/diretriz.md).
+A diretriz completa está disponível em [`planejamento/diretriz.md`](Planejamento/diretriz.md).
 
 ## 📚 Materiais de estudo gerados
 

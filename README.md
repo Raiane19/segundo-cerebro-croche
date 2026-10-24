@@ -30,7 +30,9 @@ As fontes foram selecionadas considerando a autoria, a clareza das explicações
 | Crochet Guild of America | Vídeos | Técnicas fundamentais | Série de aulas para iniciantes |
 | Craft Yarn Council | Página | Instruções de pontos | Referência escrita e organizada |
 | Crochet.com | Página | Pontos, materiais e receitas | Guias técnicos para consulta |
-| [Adicionar título do PDF] | PDF | [Conteúdo] | [Justificativa após verificação] |
+|A Arte do Crochê Moderno: Dicas e Gráficos | PDF |Dicas e gráficos para a confecção de peças de crochê. | Complementar o aprendizado com orientações e modelos de referência. |
+|E-book Fios Diferenciados — Círculo | PDF | Conteúdo relacionado a fios diferenciados para trabalhos artesanais. | Conhecer opções de fios e consultar informações que auxiliem na escolha dos materiais. |
+| Livro-de-Croche.pdf | PDF | Conteúdo de referência sobre crochê. | Consultar informações escritas para complementar os estudos. |
 
 ### Links das fontes
 
@@ -39,6 +41,9 @@ As fontes foram selecionadas considerando a autoria, a clareza das explicações
 - [Crochet Guild of America](https://crochet.org/videos-for-right-handers/)
 - [Craft Yarn Council](https://media.craftyarncouncil.com/instructions_cr.php3)
 - [Crochet.com — Learning Center](https://www.crochet.com/learning-center)
+- [A Arte do Crochê Moderno](https://bit.ly/GraficosCrocheModerno?utm_source=chatgpt.com)
+- [E-book Fios Diferenciados — Círculo](https://www.circulo.com.br/produtos/revistas?utm_source=chatgpt.com)
+- [Livro-de-Croche.pdf](https://8book.com.br/user/pages/pdf/croche-para-iniciantes-passo-a-passo/Livro-de-Croche.pdf)
 
 ## ⚙️ Diretriz do especialista
 
@@ -60,9 +65,9 @@ A diretriz completa está disponível em [`planejamento/diretriz.md`](Planejamen
 
 Os materiais abaixo foram produzidos durante o desenvolvimento do projeto.
 
-- [Mapa mental em PNG](materiais/mapa-mental.png)
-- [Apresentação em PDF](materiais/apresentacao.pdf)
-- [Guia de estudos em PDF](materiais/guia-estudos.pdf)
+- [Mapa mental em PNG](Materiais/mapa-mental.png)
+- [Apresentação em PDF](Materiais/apresentação.pdf)
+- [Guia de estudos em PDF](Materiais/guia-de-estudos.pdf)
 
 Os links acima devem apontar para arquivos que realmente existam no repositório.
 
@@ -70,10 +75,10 @@ Os links acima devem apontar para arquivos que realmente existam no repositório
 
 As capturas de tela documentam a utilização do notebook, as fontes importadas, as respostas citadas e os materiais de estudo.
 
-- [Fontes importadas](evidencias/01-fontes.png)
-- [Resposta com citações](evidencias/02-resposta-citada.png)
-- [Verificação da fonte](evidencias/03-verificacao-fonte.png)
-- [Materiais gerados](evidencias/04-materiais-gerados.png)
+- [Fontes importadas](Evidencias/fontes.png)
+- [Resposta com citações](Evidencias/resposta-citada.png)
+- [Verificação da fonte](Evidencias/verificação-fonte.png)
+- [Materiais gerados](Evidencias/materiais-gerados.png)
 
 ## 🔗 Acesso ao notebook
 
